@@ -1,0 +1,10 @@
+#!/bin/sh -e
+#Waaman revision date 2023/06/22
+
+PKG_VERSION=0.13.0
+APP=kopia
+
+# The installation directory of the package (where its actual directory
+# structure will be created) 
+PKG=/
+
